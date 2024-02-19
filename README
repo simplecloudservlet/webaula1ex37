@@ -1,0 +1,14 @@
+
+WEBAULA1EX36
+
+git init
+git add *
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/simplecloudservlet/webaula1ex36.git
+git push -u origin main
+
+---
+Comandos uteis:
+$ find . * | xargs grep input
+$ yes | cp -rf webaula /var/www/html/
